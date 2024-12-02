@@ -1,12 +1,19 @@
 ---
-title: "index"
-output: html_document
+title: "Hayley Karns"
+output:
+  rmdformats::robobook
 date: "2024-12-02"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
+
+# [Home](https://hayleykarns.github.io/)
+
+# [About Me](https://hayleykarns.github.io/AboutMe/)
+
+# [BIOL3100](https://hayleykarns.github.io/BIOL3100/)
+
+```{r}
+
 ```
 
-[BIOL3100](https://hayleykarns.github.io/BIOL3100/)
-[AboutMe](https://hayleykarns.github.io/AboutMe/)
