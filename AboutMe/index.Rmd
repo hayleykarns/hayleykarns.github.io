@@ -1,15 +1,25 @@
 ---
 title: "About Me"
 output: html_document
-date: "2024-12-02"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hi there, my name is Hayley! I am pursuing a Bachelors of Science with a Major in Geology, a Minor in Outdoor Recreation, and a certificate in Geographic Information Systems. I'm a student researcher, currently working on two research projects. I am investigating crystal-plastic deformation of granite on the Wasatch fault, and I am also doing a research project in collaboration with the UGS to create a rock glacier database of Utah. 
+Hi there, my name is Hayley! I am pursuing a Bachelors of Science with a Major in Geology, a Minor in Outdoor Recreation, and a certificate in Geographic Information Systems
 
-When I'm not looking at rocks in the lab or using GIS, you can find me hiking, climbing, and snowboarding the Wasatch! I also enjoy weightlifting, running, and reading. 
+![](C:/Users/User/Desktop/Data_Course_KARNS/FINAL_PROJECT/photo.svg)
 
-Here is my CV and my resume. 
+I'm a student researcher, currently working on two research projects. I am investigating crystal-plastic deformation of granite on the Wasatch fault, and I am also doing a research project in collaboration with the UGS to create a rock glacier database of Utah. 
+
+Here is my CV!
+
+![](C:/Users/User/Desktop/Data_Course_KARNS/FINAL_PROJECT/Karns_CV.pdf)
+
+When I'm not looking at rocks or using GIS, you can find me hiking, climbing, and snowboarding the Wasatch! I also enjoy weightlifting, running, and reading.
+
+![](C:/Users/User/Desktop/Data_Course_KARNS/FINAL_PROJECT/pics/IMG_0503.jpg)
+![](C:/Users/User/Desktop/Data_Course_KARNS/FINAL_PROJECT/pics/IMG_6406.jpg)
+![](C:/Users/User/Desktop/Data_Course_KARNS/FINAL_PROJECT/pics/IMG_9468.jpg)
+
