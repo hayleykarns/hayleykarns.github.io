@@ -82,7 +82,17 @@ ggplot(diff) +
 
 Cumulative diffusion profiles of the mylonite based on normalized gray scale values from grain profiles. 
 
+
+![](C:/Users/User/Desktop/hayleykarns.github.io/Biol3100/calibrate.svg)
+
+Gray scale values were then compared with Ti ppm concentrations to interpret accuracy.
+
+
 ### DATING
+
+![MSWD of dates (Ma) in diffusion model](C:/Users/User/Desktop/hayleykarns.github.io/BIOL3100/mswd.svg)
+
+Using these diffusion numbers, we created a diffusion model to extrapolate the age given an interpreted temperature of 450 C and rate. By plugging in Temperature and rate, we were able to find a mean age of ~17 Ma which is consistent with previous data and geologic observations.
 
 ![Previous petrochronology U-Pb dating data from Stearns et. al 2020](C:/Users/User/Desktop/hayleykarns.github.io/BIOL3100/dating_stearns.svg)
 
@@ -92,11 +102,11 @@ Cumulative diffusion profiles of the mylonite based on normalized gray scale val
 ### CONCLUSIONS
 The analysis of the CL images and the titanium concentrations in the quartz provide insight into the titanium mobility in quartz during greenschist-facies ductile deformation. Additionally, it gives further understanding of the Wasatch Fault zone mechanisms.
 
-    -Lower titanium concentrations observed in the mylonite compared to the protolith are evidence of titanium diffusion through quartz due to deformation.
+Lower titanium concentrations observed in the mylonite compared to the protolith are evidence of titanium diffusion through quartz due to deformation.
     
-    -Titanium concentrations obtained from the EPMA work provided a means to calculate diffusion temperatures, and were estimated to be ~510 C for the mylonite and ~620 C for the protolith.
+Titanium concentrations obtained from the EPMA work provided a means to calculate diffusion temperatures, and were estimated to be ~510 C for the mylonite and ~620 C for the protolith.
     
-    -The diffusion model returned plausible time and temperature estimates for the mylonite deformation based on known geologic history which were ~450 C for approximately 17 Myr The best fit diffusion model required an assumption of isothermal conditions.
+The diffusion model returned plausible time and temperature estimates for the mylonite deformation based on known geologic history which were ~450 C for approximately 17 Myr The best fit diffusion model required an assumption of isothermal conditions.
 
  
  
