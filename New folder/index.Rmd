@@ -1,5 +1,5 @@
 ---
-title: "BIOL3100 -- Petrology Research"
+title: "BIOL3100"
 output: html_document
 date: "2024-12-02"
 ---
@@ -44,7 +44,6 @@ A diffusion model was created to extrapolate Ti concentrations from quartz grain
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(ggplot2)
-library()
 
 
 diff<-read.csv("Diff_comb.csv")
